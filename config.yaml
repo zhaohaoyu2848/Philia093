@@ -23,7 +23,7 @@ database:
   host: "db"
   port: "5432"
   user: "elementskin"
-  password: "ZHYzhy081217"
+  password: "password123"
   name: "elementskin"
   sslmode: "disable"
   max_connections: 20
