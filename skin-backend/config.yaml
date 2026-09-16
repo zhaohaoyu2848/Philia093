@@ -27,7 +27,7 @@ database:
   host: "localhost"
   port: "5432"
   user: "postgres"
-  password: "12345678"
+  password: "ZHYzhy081217"
   name: "elementskin"
   sslmode: "disable"
   max_connections: 20
@@ -42,7 +42,7 @@ webhook_worker:
 redis:
   host: "127.0.0.1"
   port: "6379"
-  password: ""
+  password: "ZHYzhy081217"
   db: 0
   key_prefix: "elementskin:"
   public_cache_ttl_seconds: 60
